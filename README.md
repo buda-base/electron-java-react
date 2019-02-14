@@ -26,7 +26,7 @@ rm -rf node_modules/ yarn.lock
 ```
 ### Main app
 
-Due to compatibility issues with `node-java` module that need to be further investigated, for now you must first switch to `node` version 8.12 and `npm` version 4.0.2:
+In another terminal, you must first switch to `node` version 8.12 and `npm` version 4.0.2 due to compatibility issues with `node-java` module that need to be further investigated:
 ```
 cd main/
 nvm install 8.12
