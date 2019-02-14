@@ -5,10 +5,9 @@
   "version": "0.0.1",
   "main": "main.js",
   "dependencies": {
-    "electron": "1.8.2",
+    "electron": "2.0.17",
     "java": "0.8.0",
-    "node-java-maven": "^0.1.1",
-    "npm": "4.0.2"
+    "node-java-maven": "^0.1.1"
   },
   "devDependencies": {
     "asar": "^0.13.0",

@@ -43,7 +43,7 @@ npm install -g npm@4.0.2
 Then install & rebuild & run:
 ```
 npm install
-npm rebuild --runtime=electron --target=1.8.2 --disturl=https://atom.io/download/atom-shell --build-from-source
+npm rebuild --runtime=electron --target=2.0.17 --disturl=https://atom.io/download/atom-shell --build-from-source
 npm start
 ```
 If something fails and you want to start all over again, clean with:
